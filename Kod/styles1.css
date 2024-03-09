@@ -83,7 +83,7 @@ footer {
 
 .gemstone img {
     width: 250px;
-    height: 250px;
+    max-height: 200px;
     display: block;
     margin: 0 auto 10px;
     border: 2.5px #1b1a1a solid;
